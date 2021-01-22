@@ -2,13 +2,13 @@
 
 👩‍💻 **Junior frontend developer**
 
-- 🔍 I'm currently looking for my first frontend job.
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning more about web dev.
+🔍 I'm currently looking for my first frontend job.</br>
+🔭 I’m currently working on my portfolio.</br>
+🌱 I’m currently learning more about web dev.
 
 **Below are some of my projects:**
 
-- 📺 [My portfolio](https://crisgarm.github.io/portfolio/)
+- ✨ [My portfolio](https://crisgarm.github.io/portfolio/)
 - 📺 [Rick and Morty character finder](https://github.com/crisgarm/rick-morty-characters-finder)
 - 📺 [TV Series finder](https://github.com/crisgarm/series-finder)
 - 🔮 [Guess the number](https://github.com/crisgarm/guess-the-number)
