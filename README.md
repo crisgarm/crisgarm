@@ -1,17 +1,29 @@
-### ¡Hola, soy Cris! 👋 👩‍💻
+### ¡Hi, I'm [Cris](https://crisgarm.github.io/portfolio/)! 👋 
 
-Comunicadora audiovisual reconvertida en **desarrolladora front-end**, encantanda de saludarte. Me gusta afrontar nuevos retos con optimismo y perspectiva. Tras mi experiencia mejorando el posicionamiento orgánicos de sitios web, descubrí otra forma de comunicación: la programación. Así aterricé en Adalab, donde con motivación, constancia y esfuerzo, comienza mi aventura de aprendizaje como desarrolladora front-end.
+👩‍💻 **Junior frontend developer**
 
-Aquí puedes ver algunos de los proyectos en los que he estado trabajando este tiempo:
+- 🔍 I'm currently looking for my first frontend job.
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning more about web dev.
 
-- 📺 [Buscador de personajes de Rick and Morty](https://github.com/crisgarm/rick-morty-characters-finder)
-- 📺 [Buscador de series de TV](https://github.com/crisgarm/series-finder)
-- 🔮 [Adivina el número](https://github.com/crisgarm/guess-the-number)
+**Below are some of my projects:**
+
+- 📺 [My portfolio](https://crisgarm.github.io/portfolio/)
+- 📺 [Rick and Morty character finder](https://github.com/crisgarm/rick-morty-characters-finder)
+- 📺 [TV Series finder](https://github.com/crisgarm/series-finder)
+- 🔮 [Guess the number](https://github.com/crisgarm/guess-the-number)
 - 💻 [Ninja Coders](https://github.com/crisgarm/project-promo-k-module-1-team-8)
 - 🎨 [Frida Kards](https://github.com/crisgarm/project-promo-k-module-2-team-8)
 
-Tecnologías utilizadas:
+---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=50px/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=50px/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=50px/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50px/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50px/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=60px/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50px/> 
+### 🚀 Tech and tools: 
 
-💬 Puedes ponerte en contacto conmigo a través del siguiente email: crisgarm9@gmail.com. ¡Nos vemos!
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=60px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width=50px/> 
+
+----
+
+### 💬 Contact me!
+
+<a href="https://www.linkedin.com/in/crisgarm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+<a href="mailto:crisgarm9@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white"></a>
