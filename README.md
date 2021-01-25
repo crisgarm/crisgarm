@@ -8,7 +8,7 @@
 
 **Below are some of my projects:**
 
-- ✨ [My portfolio](https://crisgarm.github.io/portfolio/)
+- ✨ [My portfolio](https://github.com/crisgarm/portfolio)
 - 📺 [Rick and Morty character finder](https://github.com/crisgarm/rick-morty-characters-finder)
 - 📺 [TV Series finder](https://github.com/crisgarm/series-finder)
 - 🔮 [Guess the number](https://github.com/crisgarm/guess-the-number)
