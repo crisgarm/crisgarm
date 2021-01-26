@@ -12,7 +12,7 @@
 - 📺 [Rick and Morty character finder](https://github.com/crisgarm/rick-morty-characters-finder)
 - 📺 [TV Series finder](https://github.com/crisgarm/series-finder)
 - 🔮 [Guess the number](https://github.com/crisgarm/guess-the-number)
-- 💻 [Ninja Coders](https://github.com/crisgarm/project-promo-k-module-1-team-8)
+- 💻 [Ninja Coders](https://github.com/crisgarm/ninja-coders)
 - 🎨 [Frida Kards](https://github.com/crisgarm/project-promo-k-module-2-team-8)
 
 ---
