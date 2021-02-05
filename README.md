@@ -6,7 +6,7 @@
 🔭 I’m currently working on my portfolio.</br>
 🌱 I’m currently learning more about web dev.
 
-**Below are some of my projects:**
+**Find below some of my projects:**
 
 - ✨ [My portfolio](https://github.com/crisgarm/portfolio)
 - 📺 [Rick and Morty character finder](https://github.com/crisgarm/rick-morty-characters-finder)
