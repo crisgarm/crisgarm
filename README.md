@@ -3,7 +3,7 @@
 👩‍💻 **Junior frontend developer**
 
 🔍 I'm currently looking for my first frontend job.</br>
-🔭 I’m currently working on my portfolio.</br>
+🔭 I’m currently working on different apps in Angular.</br>
 🌱 I’m currently learning Angular, TypeScript and web accessibility.
 
 **Find below some of my projects:**
