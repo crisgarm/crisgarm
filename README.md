@@ -2,8 +2,8 @@
 
 👩‍💻 **Junior frontend developer**
 
-🔍 I'm currently looking for my first frontend job.</br>
-🔭 I’m currently working on different apps in Angular.</br>
+🔍 I'm looking for my first frontend job.</br>
+🔭 I’m working on different apps in Angular.</br>
 🌱 I’m currently learning Angular, TypeScript and web accessibility.
 
 **Find below some of my projects:**
@@ -19,7 +19,7 @@
 
 ### 🚀 Tech and tools: 
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=60px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width=50px/> 
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width=50px/> 
 
 ----
 
