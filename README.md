@@ -11,8 +11,8 @@
 - ✨ [My portfolio](https://github.com/crisgarm/portfolio)
 - 📺 [Rick and Morty character finder](https://github.com/crisgarm/rick-morty-characters-finder)
 - 📺 [TV Series finder](https://github.com/crisgarm/series-finder)
-- 🔮 [Countries App](https://github.com/crisgarm/countries-app)
-- 💻 [Hangman game](https://github.com/crisgarm/hangman-game)
+- 🌍 [Countries App](https://github.com/crisgarm/countries-app)
+- 😉 [Hangman game](https://github.com/crisgarm/hangman-game)
 - 🎨 [Frida Kards](https://github.com/crisgarm/project-promo-k-module-2-team-8)
 
 ---
