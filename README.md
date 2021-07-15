@@ -2,9 +2,6 @@
 
 👩‍💻 **Junior frontend developer**
 
-🔍 I'm looking for my first frontend job.</br>
-🌱 I’m currently learning Angular and Node.js.
-
 **Find below some of my projects:**
 
 - ✨ [My portfolio](https://github.com/crisgarm/portfolio)
